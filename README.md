@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=1000&lines=Hey+I'm+Harshraj+Thakur+%F0%9F%91%8B;CSE+Undergrad+%40+GanpatUniversity+%7C+InfoSec+%26+DevOps+Explorer;Building+Bold+Ideas+One+Project+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=1000&lines=Hey+I'm+Mahek+Singh+%F0%9F%91%8B;CSE+Undergrad+%40+GanpatUniversity+%7C+InfoSec+%26+DevOps+Explorer;Building+Bold+Ideas+One+Project+at+a+Time" />
 </h1>
 
 <p align="center">
