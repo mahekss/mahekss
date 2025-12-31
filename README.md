@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## 🛠 Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,tailwind,mongo,git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,express,tailwind,mongo,git,github,vscode,figma,docker" />
 </p>
 
 ---
